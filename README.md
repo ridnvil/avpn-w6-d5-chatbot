@@ -23,7 +23,7 @@ This is a simple chatbot web application powered by Node.js, Express, and the Go
     ```
     Then, open the `.env` file and add your Google Gemini API key:
     ```
-    API_KEY=YOUR_GEMINI_API_KEY
+    GEMINI_API_KEY=YOUR_GEMINI_API_KEY
     ```
 
 3.  **Install dependencies:**
